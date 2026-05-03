@@ -26,8 +26,16 @@ Quizes/
 2. Open `quiz.html` in any browser
 3. Or use **Live Server** in VS Code for best experience
 
-## 🌐 Author
-Sourabh (https://github.com/Sourabh108-Coder/)
 
 ## 📌 Note
 This project is for learning and practice purposes.
+
+
+## 📸 Screenshots
+![Screenshot #1](screenshots/Screen_1.png)
+![Screenshot #2](screenshots/Screen_2.png)
+![Screenshot #3](screenshots/Screen_3.png)
+
+
+## 🌐 Author
+Sourabh (https://github.com/Sourabh108-Coder/)
